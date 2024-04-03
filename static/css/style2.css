@@ -1,0 +1,16 @@
+
+body{
+    background-image: url('../imagens/fundo2.png');
+    margin: 10px auto;
+    max-width: 80%;
+}    
+
+.link{
+    position: absolute;
+    margin-left: 553px;
+    margin-top: 30px;
+}
+
+h4{
+    text-align: center;
+}
